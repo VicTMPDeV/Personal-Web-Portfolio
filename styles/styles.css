@@ -505,6 +505,7 @@ section {
 
 .timeline .timeline-item p {
   color: var(--color-grey-1);
+  text-align: justify;
 }
 
 
@@ -887,6 +888,11 @@ section {
 
   .main-title h2 .bg-text {
     font-size: 2.3rem;
+  }
+
+  .timeline .timeline-item p {
+    color: var(--color-grey-1);
+    text-align: left;
   }
 
 }
